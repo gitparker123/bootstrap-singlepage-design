@@ -1,0 +1,328 @@
+<!-- card start -->
+<div class="pt-card">
+<div class="row">
+    <!-- main image -->
+    <div class="col-md-4 p-0 pt-image">
+    <img class="img-fluid d-inline-block full-width img-shadow" src="images/home-img-05-370x250.jpg" alt="">
+    </div>
+    <!-- header start -->
+    <div class="col-md-8 p-0 pt-header">
+    <div class="row full-height">
+        <div class="col-md-4 p-0">
+        <div class="d-flex justify-content-around align-items-center full-height">
+            <div>
+            <h3 class="text-center font-size-35 font-weight-500">21 Allenbg Sr</h3>
+            <p class="text-center font-size-14">Flat in Td Aviv Shak HaA</p>
+            </div>
+        </div>
+        </div>
+        <div class="col-md-4 my-5 px-4 right-divider">
+        <div class="d-flex justify-content-around align-items-center full-height">
+            <div class="text-center">
+            <h4 class="font-serif">3.5</h4>
+            <p class="text-center font-size-14">Room</p>
+            </div>
+            <div class="text-center">
+            <h4 class="font-serif">9</h4>
+            <p class="text-center font-size-14">Floor</p>
+            </div>
+            <div class="text-center">
+            <h4 class="font-serif">95</h4>
+            <p class="text-center font-size-14">m2</p>
+            </div>
+        </div>
+        </div>
+        <div class="col-md-4 p-0">
+        <div class="d-flex justify-content-around align-items-center full-height">
+            <h2 class="font-serif">$1,850,0.000</h2>
+        </div>
+        </div>
+    </div>
+    </div><!-- header-end -->
+</div>
+<!-- description start -->
+<div class="row">                 
+    <div class="col-md-12 p-5">
+    <h4>Property Description</h4>
+    <p class="pl-5">AVA Nob Hill includes studios and 1 and 2 bedroom apartments that feature an urban-inspired design that extends beyond your walls and throughout the entire community.</p>
+    </div>
+    <div class="divider"></div>
+</div><!-- description end -->   
+<!-- options start -->
+<div class="row pt-options">  
+    <div class="col-md-12 p-5">
+    <h4>Property Description</h4>
+    <div class="row pl-5 pt-option-list">
+        <div class="col-md-3 p-3">
+        <i class="fa fa-car pr-3 font-size-20"></i>Elevator
+        </div>
+        <div class="col-md-3 p-3">
+        <i class="fa fa-car pr-3 font-size-20"></i>Parking
+        </div>
+        <div class="col-md-3 p-3">
+        <i class="fa fa-car pr-3 font-size-20"></i>Bar
+        </div>
+        <div class="col-md-3 p-3">
+        <i class="fa fa-car pr-3 font-size-20"></i>Air conditioning
+        </div>
+        <div class="col-md-3 p-3">
+        <i class="fa fa-car pr-3 font-size-20"></i>Refurbished
+        </div>
+        <div class="col-md-3 p-3">
+        <i class="fa fa-car pr-3 font-size-20"></i>Sun Terrace
+        </div>
+        <div class="col-md-3 p-3">
+        <i class="fa fa-car pr-3 font-size-20"></i>Terrace
+        </div>
+        <div class="col-md-3 p-3">
+        <i class="fa fa-car pr-3 font-size-20"></i>Access for disabled
+        </div>
+        <div class="col-md-3 p-3">
+        <i class="fa fa-car pr-3 font-size-20"></i>Tadiran air Conditioner
+        </div>
+        <div class="col-md-3 p-3">
+        <i class="fa fa-car pr-3 font-size-20"></i>Pandor doors
+        </div>
+        <div class="col-md-3 p-3">
+        <i class="fa fa-car pr-3 font-size-20"></i>Storage
+        </div>
+        <div class="col-md-3 p-3">
+        <i class="fa fa-car pr-3 font-size-20"></i>Dimension
+        </div>
+        <div class="col-md-3 p-3">
+        <i class="fa fa-car pr-3 font-size-20"></i>Furniture
+        </div>
+    </div>
+    </div>
+    <div class="divider"></div>
+</div><!-- options end -->
+<!-- date group start -->
+<div class="row p-5 pt-dates">
+    <div class="col-md-6 d-flex justify-content-around align-items-center right-divider pt-date">
+    <div>
+        <p class="mb-0 font-size-20">Year of Casdfnkvndks: &nbsp;&nbsp;&nbsp;2011</p>
+        <p class="mt-2 font-size-20">Fnvnionjig Building: &nbsp;&nbsp;&nbsp;2-1</p>
+    </div>
+    </div>
+    <div class="col-md-6 d-flex justify-content-around align-items-center pt-date">
+    <div>
+        <p class="mb-0 font-size-20">Enhance Expected: &nbsp;&nbsp;&nbsp;2013-9-15</p>
+        <p class="mt-2 font-size-20">Number asdsdn: &nbsp;&nbsp;&nbsp;3</p>
+    </div>
+    </div>
+</div><!-- date group end -->
+<div class="divider"></div>
+<!-- contact button start -->
+<div class="row d-flex justify-content-around align-items-center pt-contact">
+    <div class="col-md-4 p-5 pt-contact-button">
+    <button type="button" class="btn btn-primary btn-lg btn-block">Contact Owner</button>
+    </div>
+</div><!-- contact button end -->
+<!-- footer start -->
+<div class="row mx-2 mb-3 pt-footer">
+    <div class="col-md-6">
+    <p>ID 80915 | Repeat</p>
+    </div>
+    <div class="col-md-6 d-flex justify-content-end">
+    <i class="fa fa-whatsapp pr-3 font-size-25"></i>
+    <i class="fa fa-facebook-official pr-3 font-size-25"></i>
+    <i class="fa fa-envelope-o pr-3 font-size-25"></i>
+    <i class="fa fa-level-up pr-3 font-size-25"></i>
+    <i class="fa fa-print pr-3 font-size-25"></i>
+    <i class="fa fa-external-link pr-3 font-size-25"></i>
+    </div>
+</div><!-- footer end -->
+</div>
+
+
+
+
+
+
+/* customized by xinxu */
+.line-right {
+	border-right: 1px solid #cccccc;
+}
+.line-bottom {
+	border-bottom: 1px solid #cccccc;
+}
+.full-width {
+	width: 100%;
+}
+.full-height {
+	height: 100%;
+}
+.font-serif {
+	font-family: serif;
+}
+.font-size-14 {
+	font-size:14px !important;
+}
+.font-size-20 {
+	font-size: 20px !important;
+}
+.font-size-25 {
+	font-size: 25px !important;
+}
+.font-size-35 {
+	font-size: 35px !important;
+}
+.font-weight-500 {
+	font-weight: 500;
+}
+
+
+.pt-card {
+	text-align:left;
+	border: 1px solid #cccccc;
+	padding:2px;
+	background: #f5f5f5;
+}
+.pt-card:hover {
+	box-shadow: 0 0 4px 0 rgba(0,0,0,.08), 0 2px 4px 0 rgba(0,0,0,.12);
+}
+.pt-card .row {
+	margin:0;
+}
+.pt-card .divider {
+	width: 70%;
+	height: 1px;
+    background: #B3AC98;
+    margin: 0 auto;
+}
+.pt-card img:hover {
+	box-shadow:-2px 13px 17px -7px rgba(0,0,0,1);
+}
+.img-shadow {
+	display:inline-block;
+	position:relative;
+	border:1px solid #ccc;
+	padding:5px;
+	background:#f2f2f2;
+	margin-bottom:30px;
+	-webkit-box-shadow: 0 28px 16px -26px rgba(0, 0, 0);
+	-moz-box-shadow: 0 28px 16px -26px rgba(0, 0, 0);
+	box-shadow: 0 28px 16px -26px rgba(0, 0, 0);
+}
+.pt-header {
+	background-color: #B3AC98;
+	color: #ffffff; 
+	margin-bottom: 90px !important;
+}
+.pt-header .right-divider {
+	border-right: 1px solid #EDEFF2;
+}
+.pt-card .pt-dates .right-divider {
+	border-right: 1px solid #B3AC98;
+}
+
+@media (min-width: 480px) {
+	.pt-image {
+		flex: unset;
+		max-width: 100%;
+		display: flex;
+		justify-content: center;
+	}
+	.pt-header {
+		flex: unset;
+		max-width: 100%;
+		margin-bottom: 0px !important;
+	}
+	.pt-image img {
+		width: 375px;
+		margin-bottom: 10px;
+	}
+}
+
+@media (min-width: 768px) {
+	.pt-image {
+		flex: unset;
+		max-width: 100%;
+		display: flex;
+		justify-content: center;
+	}
+	.pt-image img {
+		width: 375px;
+		margin-bottom: 10px;
+	}
+	.pt-header {
+		flex: unset;
+		max-width: 100%;
+		margin-bottom: 0px !important;
+	}
+	.pt-header .col-md-4:not(last-child) {
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	.pt-header .col-md-4:last-child {
+		flex: unset;
+		max-width: 100%;
+		display: flex;
+		justify-content: center;
+	}
+
+}
+
+@media (min-width: 992px) {
+	.pt-image {
+		flex: unset;
+		max-width: 100%;
+		display: flex;
+		justify-content: center;
+	}
+	.pt-image img {
+		width: 375px;
+		margin-bottom: 10px;
+	}
+	.pt-header {
+		flex: unset;
+		max-width: 100%;
+		margin-bottom: 0px !important;
+	}
+	.pt-header .col-md-4:not(last-child) {
+		display: unset;
+		flex: 0 0 33.33333%;
+		max-width: 33.33333%;
+	}
+	.pt-header .col-md-4:last-child {
+		display: unset;
+		flex: 0 0 33.33333%;
+		max-width: 33.33333%;
+	}
+	.pt-option-list .col-md-3 {
+		flex: 0 0 33.3333%;
+		max-width: 33.3333%;
+	}
+
+}
+
+@media (min-width: 1200px) {
+	.pt-image {
+		display: unset;
+		flex: 0 0 33.3333%;
+		max-width: 33.3333%;
+	}
+	.pt-image img {
+		width: 100%;
+		margin-bottom: 0px;
+	}
+	.pt-header {
+		display: unset;
+		flex: 0 0 66.6667%;
+		max-width: 66.6667%;
+	}
+
+	.pt-header {
+		margin-bottom: 90px !important;
+	}
+	.pt-header .col-md-4:not(last-child) {
+		display: unset;
+		flex: 0 0 33.33333%;
+		max-width: 33.33333%;
+	}
+	.pt-header .col-md-4:last-child {
+		display: unset;
+		flex: 0 0 33.33333%;
+		max-width: 33.33333%;
+	}
+}
